@@ -1,0 +1,16 @@
+# Dependensi
+node_modules/
+
+# Hasil test Playwright
+test-results/
+playwright-report/
+blob-report/
+
+# File editor / sistem
+.DS_Store
+.vscode/
+
+# File rahasia (jangan pernah di-commit)
+.env
+.env.local
+*.pem
